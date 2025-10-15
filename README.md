@@ -8,7 +8,7 @@ In the src column, R = rekeyed; O = original source files
 
 | Series | volume |  volume_id | src | year | note |
 | ------ | ------ | ---------- | --- | ---- | ---- |
-| stml   |      1 | radin      |   R | 1999 |  |
+| stml   | 1      | v1         | R   | 1999                        | EPUB files added          |
 | stml   |      2 | lawler     |   R | 1999 |  |
 | stml   |      3 | knobel     |   R | 2000 | EPUB files added |
 | stml   |      4 | nowak      |   R | 2000 | EPUB files added |
